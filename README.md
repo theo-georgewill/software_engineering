@@ -3,6 +3,7 @@
 A structured and evolving record of my professional engineering practice, combining:
 
 I began building real-world software in 2019 — years before earning my degree. 
+
 My portfolio reflects this trajectory, from simple freelance tools to full-stack systems integrated with APIs and OAuth2 platforms like HubSpot.
 
 - 📜 Academic foundation (B.Sc. Computer Science — technical CGPA 4.65/5.00)
