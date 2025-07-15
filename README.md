@@ -1,6 +1,6 @@
 # Software Engineering
 
-A structured and evolving record of my professional engineering practice, combining:
+A structured and evolving record of my professional engineering practice
 
 I began building real-world software in 2019 — years before earning my degree. 
 
