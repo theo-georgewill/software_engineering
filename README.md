@@ -2,9 +2,9 @@
 
 A structured and evolving record of my professional engineering practice that combines:
 
-- 📜 Academic foundation (B.Sc. Computer Science — technical CGPA 4.65/5.00)
-- ⚙️ Real-world projects since 2019
-- 📈 CPD logs aligned with CEng and MBCS expectations
+- Academic foundation (B.Sc. Computer Science — technical CGPA 4.65/5.00)
+- Real-world projects since 2019
+- CPD logs aligned with CEng and MBCS expectations
 
 I began building real-world software in 2019 — years before earning my degree. 
 
@@ -16,7 +16,7 @@ This repo serves as both:
 
 ---
 
-## 📚 Structure
+## Structure
 
 | Folder                | What It Contains                                               |
 |-----------------------|----------------------------------------------------------------|
