@@ -1,6 +1,6 @@
 # Software Engineering
 
-A structured and evolving record of my professional engineering practice combining:
+A structured and evolving record of my professional engineering practice that combines:
 
 - 📜 Academic foundation (B.Sc. Computer Science — technical CGPA 4.65/5.00)
 - ⚙️ Real-world projects since 2019
