@@ -1,4 +1,4 @@
-# 🧠 Software Engineering
+# Software Engineering
 
 A structured and evolving record of my professional engineering practice, combining:
 
