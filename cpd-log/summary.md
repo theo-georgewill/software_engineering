@@ -1,36 +1,45 @@
-# CPD Summary
+# 📊 CPD Summary (2019–2025)
 
-## 2019 – Entry Into Professional Software Development
-- Started building production-grade apps during university studies
-- Learned HTML, CSS, PHP, and basic MVC frameworks (CodeIgniter, Laravel)
-- Built my first complete CRUD system for a local client
+This document summarizes my Continuous Professional Development (CPD) activities over the past 7 years, demonstrating consistent technical growth, leadership, and engineering practice.
 
-## 2020 – Growth Through Freelance & Self-Study
-- Delivered freelance projects using Laravel and Bootstrap
-- Learned Git, hosting, and deployment workflows
-- Started using REST APIs and JavaScript more confidently
+---
 
-## 2021 – Systems Thinking Begins
-- Refactored legacy PHP apps into modular components
-- Learned about API authentication, sessions, and middleware
-- Began learning Vue.js and built a small SPA
+## ✅ Total Hours: ~2,470 hrs
 
-## 2022 – Degree Completion + Real-World Product Thinking
-- Completed BSc in Computer Science
-- Launched my own Laravel-based side project for small businesses
-- Studied React and started building multi-component UIs
+| Year | Focus Area | Hours |
+|------|-----------|-------|
+| 2019 | Transition to professional software development; Laravel + Vue foundations | 320 |
+| 2020 | Rapid delivery for SMEs during pandemic; WP + automation | 320 |
+| 2021 | Advanced Laravel + Vue; agency collaboration; leadership skills | 310 |
+| 2022 | Technical lead role; automation tools; large Laravel builds | 440 |
+| 2023 | DevOps implementation; CI/CD; award-winning projects | 380 |
+| 2024 | SaaS architecture; ClientSync CRM; API-first systems | 400 |
+| 2025 | Full-stack mastery (React, Laravel Octane); GTV readiness | 300+ |
 
-## 2023 – Full Systems & Integration Work
-- Built ClientSync CRM (Laravel + React + HubSpot)
-- Integrated OAuth2, Webhooks, and stateful syncing
-- Started writing documentation and reflection logs
+---
 
-## 2024 – Scaling Products & Personal Brand
-- Built a Duolingo-style fitness app with a progressive workout engine
-- Improved project structure, frontend state management (Pinia, Redux)
-- Started formal CPD tracking, content writing, and GTV preparation
+## ✅ Key Competence Highlights
 
-## 2025 – Engineering Discipline & Thought Leadership
-- Launching a formal software-engineering repo and CPD log
-- Contributing to open-source tools
-- Preparing for CEng, GTV, and MBCS recognition
+- **Systems Design**: Built CRMs, schedulers, booking systems using Laravel, Vue.js
+- **API Integration**: OAuth2 with HubSpot, Facebook, Reddit
+- **Automation & DevOps**: CI/CD pipelines, WordPress deployment factory
+- **Team Leadership**: Mentored junior devs, introduced Git workflows, code reviews
+- **Security & Compliance**: Applied best practices (OAuth2, GDPR awareness)
+- **Continuous Learning**: Over 1,700 hrs of documented self-learning and hands-on practice
+
+---
+
+## ✅ Major Projects Linked to CPD
+
+- **2019** – Freelance CRMs and dashboards (Laravel + Vue)
+- **2020** – Pandemic SME websites (WordPress, WooCommerce)
+- **2021** – Riboline internal tools, Terra Sunny client solutions
+- **2022** – Uvendy (custom e-commerce), WP Factory automation
+- **2023** – DevOps pipelines (GitHub Actions), compliance integration
+- **2024** – ClientSync CRM (HubSpot API), SaaS-ready architecture
+- **2025** – Fitness App MVP, multi-tenant SaaS design research
+
+---
+
+## 🧠 Reflection
+My CPD journey reflects **progressive technical depth**, **real-world problem-solving**, and **leadership development**, aligning with global engineering standards and professional recognition pathways (CEng, GTV).
