@@ -14,13 +14,12 @@ This repo serves as both:
 ---
 
 ## 📚 Structure
-
-| Folder                | What It Contains                                               |
-|-----------------------|----------------------------------------------------------------|
-| `cpd-log/`            | Work-based, formal, and self-directed learning (by quarter)    |
-| `projects/`           | Case studies of real systems I’ve built or contributed to      |
-| `skills/`             | Framework and tool-specific knowledge and workflows            |
-| `architecture/`       | Systems thinking, design decisions, and software structure     |
-| `reflections/`        | Learning logs and key moments of professional growth           |
+| Folder                  | What It Contains                                             |
+| ----------------------- | ------------------------------------------------------------ |
+| `achievements/`         | Education, certifications, articles, and public speaking     |
+| `architecture/`         | Systems thinking, design decisions, and software structure   |
+| `cpd-log/`              | Work-based, formal, and self-directed learning (by quarter)  |
+| `projects/`             | Case studies of real systems I’ve built or contributed to    |
+| `reflections/`          | Learning logs and key moments of professional growth         |
+| `skills/`               | Framework and tool-specific knowledge and workflows          |
 | `standards-and-ethics/` | Engineering ethics, secure coding, GDPR, BCS Code of Conduct |
-| `achievements/`       | Education, certifications, articles, and public speaking       |
